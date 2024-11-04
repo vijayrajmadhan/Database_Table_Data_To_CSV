@@ -1,0 +1,11 @@
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\Data_To_Csv.exe
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\Data_To_Csv.dll
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\Data_To_Csv.deps.json
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\Data_To_Csv.runtimeconfig.json
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\Data_To_Csv.pdb
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\System.Data.SqlClient.dll
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\runtimes\win-arm64\native\sni.dll
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\runtimes\win-x64\native\sni.dll
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\runtimes\win-x86\native\sni.dll
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Visual Studio\NetSuite\Data_To_Csv\Data_To_Csv\bin\Release\net8.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
